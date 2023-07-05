@@ -17,3 +17,11 @@ The parameter selection is as follows:
 * cGAN generator, discriminator has 3 hidden layers
 * MLP classifier has a three layer architecture 
 * $\lambda_{struct}, \lambda_{1,..,3}$ are set as 0.5, 1.0 respectively
+## Datasets 
+Datasets used in the experiments are shared in the dataset folder
+- Wafer Dataset - 52x52 single channel images, 10 classes
+- Imbalanced train dataset
+- Imbalanced and balanced test dataset
+- KMNIST Dataset - 28x28 single channel images, 10 classes
+- Imbalanced train dataset
+- Imbalanced and balanced test dataset
