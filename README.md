@@ -1,5 +1,5 @@
 # SEAL
-# Data Generation With Structure Enforcing Adversarial Learning
+## Data Generation With Structure Enforcing Adversarial Learning
 ## This paper is accepted for presentation at International Conference on Image Processing 2023 (ICIP23)
 ### Pytorch code, datasets and implementation details are shared here
 The hardware and software setup for the experiments are as follows:
