@@ -1,2 +1,4 @@
+csv files uploaded in compressed format
+Each dataset folder contains train and test datasets
 Wafer dataset - 10 classes, image resolution -52x52
 Kmnist dataset - 10 classes, image resolution - 28x28
