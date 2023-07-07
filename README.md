@@ -25,6 +25,3 @@ Datasets used in the experiments are shared in the dataset folder
 - KMNIST Dataset - 28x28 single channel images, 10 classes
 - Imbalanced train dataset
 - Imbalanced and balanced test dataset
-
-![alt text] (http://localhost:8080/files/SRGAN/Waferfiles/Genimages_E2ECGAN_64LD3.png)
-- http://localhost:8080/files/SRGAN/Waferfiles/Genimages_E2ECGAN_64LD1.png
