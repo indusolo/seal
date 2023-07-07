@@ -26,5 +26,5 @@ Datasets used in the experiments are shared in the dataset folder
 - Imbalanced train dataset
 - Imbalanced and balanced test dataset
 
-- http://localhost:8080/files/SRGAN/Waferfiles/Genimages_E2ECGAN_64LD3.png
+![alt text] (http://localhost:8080/files/SRGAN/Waferfiles/Genimages_E2ECGAN_64LD3.png)
 - http://localhost:8080/files/SRGAN/Waferfiles/Genimages_E2ECGAN_64LD1.png
