@@ -25,5 +25,6 @@ Datasets used in the experiments are shared in the dataset folder
 - KMNIST Dataset - 28x28 single channel images, 10 classes
 - Imbalanced train dataset
 - Imbalanced and balanced test dataset
-![image](https://github.com/indusolo/seal/assets/99342079/a9a4ace8-b2f2-43bc-b94e-a551db537537)
+![image](https://github.com/indusolo/seal/assets/99342079/08f6ced5-570f-4869-9697-e6e1ea6ea837)
+
 
