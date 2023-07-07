@@ -28,6 +28,7 @@ Datasets used in the experiments are shared in the dataset folder
 
 ## Example generated images
 # Wafer
-![image](https://github.com/indusolo/seal/assets/99342079/08f6ced5-570f-4869-9697-e6e1ea6ea837)
+![image](https://github.com/indusolo/seal/assets/99342079/3766d74e-6be1-41e5-a748-b15fe0fdeec1)
+
 
 
