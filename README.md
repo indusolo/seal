@@ -27,7 +27,7 @@ Datasets used in the experiments are shared in the dataset folder
 - Imbalanced and balanced test dataset
 
 ## Example generated images
-# Wafer
+### GAN generated sample Wafer images
 ![image](https://github.com/indusolo/seal/assets/99342079/3766d74e-6be1-41e5-a748-b15fe0fdeec1)
 
 
